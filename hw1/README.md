@@ -1,0 +1,26 @@
+# Homework #1: Making Music from Zero Using Python (Due Sep 24)
+
+### Instruction
+The goal of this homework is to create a music piece using basic sound synthesis units (oscillators, filters, and envelopes) without any audio samples. The length of the song should be around 10 second.  
+
+### Deliverable 
+You should submit the source code (.ipynb) and audio file (.wav) via KLMS.
+
+## Step #1: Make your own rhythm track 
+Modify the parameters of sound synthesis units in the <a href="https://github.com/juhannam/ctp431-2023/blob/main/python/03.%20Drum%20Machine.ipynb"> drum machine notebook </a>
+- Timbre of kick snare, and hi-hat: amp envelope, lowpass filter
+- Pattern of rhythm sequeces
+- Tempo 
+- Anything else (e.g., change the relative volume of each drum event) 
+
+## Step #2: Make your own melody tone  
+Modify the parameters of sound synthesis units in the <a href="https://github.com/juhannam/ctp431-2023/blob/main/python/02.%20Basic%20Sound%20Synthesis%20Units.ipynb"> basic sound synthesis units notebook </a>
+- Oscillator: oscillator type, the number of oscillators with detune
+- Filters: filter type, filer envelope (issue: the filter cut-off frequency should be adjusted by the oscillator frequency?)
+- Amp: amplitude envelope
+- Anything else (e.g., chord tone, vibrato)
+
+## Step #3: Make your own melody line and mix it with your rhythm track  
+- You can use other instuments to compose the melody 
+- Consider the mixing gain between the two tracks 
+
