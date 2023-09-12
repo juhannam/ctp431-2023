@@ -1,7 +1,7 @@
 # Homework #1: Making Music from Zero Using Python (Due Sep 24)
 
 ### Instruction
-The goal of this homework is to create a music piece using basic sound synthesis units (oscillators, filters, and envelopes) without any audio samples. The length of the song should be around 10 second.  
+The goal of this homework is to create a music piece using basic sound synthesis units (oscillators, filters, and envelopes) without any audio samples. The length of the song should be around 10 seconds.  
 
 ### Deliverable 
 You should submit the source code (.ipynb) and audio file (.wav) via KLMS.
@@ -21,6 +21,5 @@ Modify the parameters of sound synthesis units in the <a href="https://github.co
 - Anything else (e.g., chord tone, vibrato)
 
 ## Step #3: Make your own melody line and mix it with your rhythm track  
-- You can use other instuments to compose the melody 
-- Consider the mixing gain between the two tracks 
-
+- You may use other instuments (e.g., piano or guitar) while composing the melody 
+- Adjust the mixing gains of the melody and rhythm tracks 
