@@ -27,6 +27,6 @@ Modify the parameters of sound synthesis units in the <a href="https://github.co
 ## Options (extra 10 pts)
 - You can add more tracks such as bass and chords 
 
-## Reference
+## References
 - [Learning Synth](https://learningsynths.ableton.com/en/playground)
 - [Learning Music](https://learningmusic.ableton.com/index.html)
