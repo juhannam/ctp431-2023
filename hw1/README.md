@@ -1,4 +1,4 @@
-# Homework #1: Making Music from Zero Using Python (Due Sep 24)
+# Homework #1: Making Simple Music from Zero Using Python (Due Sep 24)
 
 ### Instruction
 The goal of this homework is to create a music piece using basic sound synthesis units (oscillators, filters, and envelopes) without any audio samples. The length of the song should be around 10 seconds.  
