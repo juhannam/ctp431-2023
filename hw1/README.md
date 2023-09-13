@@ -1,10 +1,10 @@
-# Homework #1: Making Simple Music from Zero Using Python (Due Sep 24)
+# Homework #1: Making Simple Music from Zero Using Python
 
-### Instruction
 The goal of this homework is to create a music piece using basic sound synthesis units (oscillators, filters, and envelopes) without any audio samples. The length of the song should be around 10 seconds.  
 
-### Deliverable 
-You should submit the source code (.ipynb) and audio file (.wav) via KLMS.
+## Due date and deliverables
+- **Sep 24, 11:59pm**
+- Source code (.ipynb) and audio file (.wav): submit them to KLMS.
 
 ## Step #1: Make your own rhythm track (30pts)
 Modify the parameters of sound synthesis units in the <a href="https://github.com/juhannam/ctp431-2023/blob/main/python/03.%20Drum%20Machine.ipynb"> drum machine notebook </a>
