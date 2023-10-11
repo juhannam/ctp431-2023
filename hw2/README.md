@@ -18,14 +18,14 @@ The goal of this homework is to design a customized THX deep note.
 - We provide the baseline at [this link](https://github.com/juhannam/ctp431-2023/blob/main/hw2/HW2-Deep%20Note.ipynb)
 - Run the code and understand how it works
 
-## Step #3: Cutomize the baseline code (100 pts)
+## Step #3: Customize the baseline code (100 pts)
 Design your own version of the THX Sound Logo by changing the following sound properties
-- Frequency: make the frequency of voices vary slowly in a random pattern at the initial stage
-- Timbre: change the timber of voices using different oscillators, detuned voiced, FM synthesis or filters
+- Frequency: make the frequency of the voices vary slowly in a random pattern at the initial stage
+- Timbre: change the timber of voices using different oscillators, detuned voiced, FM synthesis, or filters
 - Amplitude Envelope: change the evolution of tone dynamics
 - Spatial effect: add reverberation to the tone using a room impulse response. You can find IR samples at [this link](https://www.openair.hosted.york.ac.uk/?page_id=36)   
 
-You can also freely cutomize it with other options
+You can also freely customize it with other options
 - Change the target frequencies to build a different chord tone (e.g. Dmin, Dmaj7)
 - Change the initial frequencies range 
 - Adjust the number of voices (You can even gradually change the number of voices over time) 
