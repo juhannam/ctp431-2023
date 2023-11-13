@@ -21,8 +21,6 @@ You can find some examples that attract and inspire you in the followoing links
 - [CTP431 (2018)](https://mac.kaist.ac.kr/~juhan/ctp431/2018/finals.html)
 - [GCT535 (2021)](https://www.youtube.com/playlist?list=PLTauV9F_sDE3y6hE7QsPWp5BRZqgHiYWy)
 - [GCT535 (2022)](https://www.youtube.com/playlist?list=PLTauV9F_sDE2bUFrw-rRmQYJuRkWQR9zg)
-- [Google Magenta Demo](https://magenta.tensorflow.org/demos)
-
 
 ## Step #2: Idea Presentation (Nov 27, Mon)
 Prepare 7-8 minute presentation to introduce your final project idea and report the ongoing status. 
