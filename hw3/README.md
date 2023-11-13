@@ -21,8 +21,8 @@ The goal of this homework is to make an arpeggiator using Chuck and design a new
 ## Step #3: Customize the baseline code (70 pts)
 Implement the following arpeggiator patterns
 - Note order: Up, Down, Up and Down, As Played (by the order of play), Random  
-- Note range: + 1 Octave, + 2 Octave
-- Swing: 66% (divivde 1 beat into 2/3 beat, 1/3 beat), 75% (divivde 1 beat into 3/4 beat, 1/4 beat)  
+- Note range: +1 octave, +2 octaves
+- Swing: 66% (divide 1 beat into 2/3 beat, 1/3 beat), 75% (divide 1 beat into 3/4 beat, 1/4 beat)  
 
 ## Step #4: Add more nuances and flavors (20 pts)
 - Change the syntheised tone using different combinations of OSC, Filter, and Amp Envelope. Or, you can also use recorded samples.
