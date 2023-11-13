@@ -20,7 +20,7 @@ The goal of this homework is to make an arpeggiator using Chuck and design a new
 
 ## Step #3: Customize the baseline code (70 pts)
 Implement the following arpeggiator patterns
-- Note order: Up, Down, Up and Down, As Played (by the order of play), Random  
+- Note order: up, down, updown, playorder (by the order of play), random  
 - Note range: +1 octave, +2 octaves
 - Swing: 66% (divide 1 beat into 2/3 beat, 1/3 beat), 75% (divide 1 beat into 3/4 beat, 1/4 beat)  
 
