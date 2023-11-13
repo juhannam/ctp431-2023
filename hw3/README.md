@@ -27,7 +27,7 @@ Implement the following arpeggiator patterns
 ## Step #4: Add more nuances and flavors (20 pts)
 - Change the syntheised tone using different combinations of OSC, Filter, and Amp Envelope. Or, you can also use recorded samples.
 - Map a knob of the MIDI controller or your keyboard (e.g. 0-9 number keys) to change the tempo in BPM 
-- Add a global resonant lowpass filter with LFO (the frequency of LFO can be synchronized to the tempo) or map a knob of the MIDI controller to change the cut-off frequency  (See: https://www.youtube.com/watch?v=BZqqjshJGq0 (Filter) and https://www.youtube.com/watch?v=ikReJ0i1zjE (LFO))
+- Add a global resonant lowpass filter and LFO to to change the cut-off frequency automatically (the frequency of LFO can be synchronized to the tempo). Alternatively, you can map a knob of the MIDI controller to change the cut-off frequency  (See: https://www.youtube.com/watch?v=BZqqjshJGq0 (Filter) and https://www.youtube.com/watch?v=ikReJ0i1zjE (LFO))
 - Add a delay effect (the delay time can be synchronized to the tempo) (See: https://www.youtube.com/watch?v=Rl2Go06u7CM)
 - You can implement more advanced options of arpeggiator such as gate, latch, chord or other creative patterns
 - You can even add another track, for example, a drum track along with the arpeggiator track
