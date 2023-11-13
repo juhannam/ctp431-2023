@@ -18,13 +18,13 @@ The goal of this homework is to make an arpeggiator using Chuck and design a new
 - We provide the two types of baseline source code in Chuck: [poly-key-arp.ck](https://github.com/juhannam/ctp431-2023/blob/main/hw3/poly-key-arp.ck) (keyboard version) and [poly-midi-arp.ck](https://github.com/juhannam/ctp431-2023/blob/main/hw3/poly-midi-arp.ck) (MIDI version)
 - Run the Chuck files and understand how they work
 
-## Step #3: Customize the baseline code (70 pts)
+## Step #3: Customize the baseline code (60 pts)
 Implement the following arpeggiator patterns
 - Note order: up, down, updown, playorder (by the order of play), random  
 - Note range: +1 octave, +2 octaves
 - Swing: 66% (divide 1 beat into 2/3 beat, 1/3 beat), 75% (divide 1 beat into 3/4 beat, 1/4 beat)  
 
-## Step #4: Add more nuances and flavors (20 pts)
+## Step #4: Add more nuances and flavors (30 pts)
 - Change the syntheised tone using different combinations of OSC, Filter, and Amp Envelope. Or, you can also use recorded samples.
 - Map a knob of the MIDI controller or your keyboard (e.g. 0-9 number keys) to change the tempo in BPM 
 - Add a global resonant lowpass filter and LFO to to change the cut-off frequency automatically (the frequency of LFO can be synchronized to the tempo). Alternatively, you can map a knob of the MIDI controller to change the cut-off frequency  (See: https://www.youtube.com/watch?v=BZqqjshJGq0 (Filter) and https://www.youtube.com/watch?v=ikReJ0i1zjE (LFO))
