@@ -2,6 +2,9 @@
 
 The goal of this homework is to make an arpeggiator using Chuck and design a new musical interaction 
 
+*** Renting a MIDI Keyboard: [link](https://docs.google.com/spreadsheets/d/19JWFxTN6xlDoAZzQVOw6WNCjx2etJlLZmvo3hrB3Sj8/edit?usp=sharing
+) ***
+
 ## Due date and deliverables
 - **Nov 26, 11:59pm**
 - Source code file (.ck) 
@@ -34,6 +37,7 @@ Implement the following arpeggiator patterns
 
 ## Step #5: Record your play (10 pts)
 - Play your favorite arpegiator pattern and record it as a video
+
 
 
 
