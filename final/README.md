@@ -40,12 +40,9 @@ Prepare 7-8 minute long presentation to introduce your final project.
 - Show the demo
 
 ## Step #4: Deliverable (Dec 17, Sun)
-- Source code files (.*)  
-- Report (.pdf): describe what you implemented and performed (2 pages)
-- Video (.mp4): showcase your work   
+- Presentation video (.mp4): presentation & demo (5-10 minute long)   
+- Result files : source code or audio/video files 
 - Submit them to KLMS
-
-
 
 
 
