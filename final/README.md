@@ -32,7 +32,7 @@ Prepare 7-8 minute presentation to introduce your final project idea and report 
 
 
 ## Step #3: Final Presentation (Dec 13, Wed)
-Prepare 7-8 minute long presentation to introduce your final project. 
+Prepare 7-8 minute long presentation to present your final project. 
 
 - The main idea
 - Technical details
@@ -40,9 +40,7 @@ Prepare 7-8 minute long presentation to introduce your final project.
 - Show the demo
 
 ## Step #4: Deliverable (Dec 17, Sun)
-- Presentation video (.mp4): presentation & demo (5-10 minute long)   
-- Result files : source code or audio/video files 
+- Report (.pdf): describe what you implemented and performed (2 pages, but you can add more pages if necessary, for example, for figures )
+- Result files : source code or audio/video files to showcase the result  
 - Submit them to KLMS
-
-
 
